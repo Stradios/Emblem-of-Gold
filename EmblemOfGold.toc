@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Emblem of Gold
+## Notes: Displays gold and emblems in the vendor tab
+## Version: 1.0
+## Author: Stradios
+
+EmblemOfGold.lua
+
