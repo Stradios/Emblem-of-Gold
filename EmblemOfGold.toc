@@ -1,8 +1,8 @@
 ## Interface: 30300
 ## Title: Emblem of Gold
-## Notes: Displays gold and emblems in the vendor tab
-## Version: 1.0
+## Notes: Displays your emblems next to the money in the vendor window
+## Version: 2.0
 ## Author: Stradios
+## SavedVariables: EmblemOfGoldDB
 
 EmblemOfGold.lua
-
